@@ -2,7 +2,7 @@
 
 Author: Brandon Trabucco.
 Creation Date: 2017.07.02.
-Program Name: Serriform Neural Network.
+Program Name: LSTM Neural Network.
 Program Description:
     This algorithm is an implementation of a long short-term memory cell with peephole connections.
     Backpropogation through time is used to train the weights in this algorithm, and allows for this algorithm to learn temporal patterns.
